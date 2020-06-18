@@ -1,0 +1,1 @@
+docker run -d -p 8668:8668 --name observium cleverware/observium
